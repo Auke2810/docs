@@ -10,7 +10,10 @@ tags: ["studio pro", "regular expressions", "regular expression"]
 
 A regular expression describes a set of criteria that a string can match. In the [validation rules](validation-rules) of an entity a regular expression can be used to validate whether an attribute of type String matches these criteria.
 
+A regular expression can be checked with the [isMatch()](https://docs.mendix.com/refguide/string-function-calls#ismatch) function.
+
 A regular expression has the following properties.
+
 
 ## 2 Common
 
